@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn {
+  padding: 7px;
+  background-color: lightgreen;
+  border: 1px solid green;
+  cursor: pointer;
+}
